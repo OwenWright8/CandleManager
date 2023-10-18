@@ -1,0 +1,198 @@
+﻿{
+  "Scents": [
+    {
+      "Name": "Birthday Cake",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Blueberry Swirl",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cafe Mocha",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cinnamon",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cinnamon Buns",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cinnamon Vanilla",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Clean Cotton",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cookies for Santa",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Creamy Vanilla",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Cucumber Melon",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Georgia Peach",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Harvest",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Hawaiian Paradise",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Lavender",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Lilac",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Lovespell",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Mistletoe",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Pumpkin Spice",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Spiced Cranberry",
+      "LabelCount": 0,
+      "JarCount": 0
+    },
+    {
+      "Name": "Vanilla Pumpkin Pie",
+      "LabelCount": 0,
+      "JarCount": 0
+    }
+  ],
+  "Fragerences": [
+    {
+      "Name": "Birthday Cake",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Blueberry Cobbler",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Coffee",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Chocolate",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Caramel",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Cinnamon",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Cinnamon Buns",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Clean Cotton",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Santas Farts",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Vanilla Bean",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Cucumber Melon",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Georgia Peach",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Harvest",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Pina Colada",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Lavender",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Lilac",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Lovespell",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Mistletoe",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Pumpkin Spice",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Spiced Cranberry",
+      "FragerenceWeight": 0
+    },
+    {
+      "Name": "Vanilla Pumpkin Pie",
+      "FragerenceWeight": 0
+    }
+  ],
+  "Supplies": {
+    "SoyWaxWeight": 0,
+    "JarCount": 0,
+    "JarLidCount": 0,
+    "WickCount": 0,
+    "WickStickerCount": 0,
+    "WarningLabelCount": 0
+  }
+}
